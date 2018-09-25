@@ -1,0 +1,27 @@
+{
+  "name": "@shigma/svg-font",
+  "version": "1.0.0",
+  "description": "Parse svg icons to css font.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shigma/svg-font.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shigma/svg-font/issues"
+  },
+  "homepage": "https://github.com/Shigma/svg-font#readme",
+  "dependencies": {
+    "svg2ttf": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0"
+  }
+}
